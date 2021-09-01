@@ -17,3 +17,34 @@
   color: darkgrey;
 }
 
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.blog1 {
+  border-bottom: 1px solid lightgrey;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+
+.blog2 {
+  border-bottom: 1px solid lightgrey;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+
+
+.blog3 {
+  border-bottom: 1px solid lightgrey;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+
+
+.blog4 {
+  border-bottom: 1px solid lightgrey;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+
