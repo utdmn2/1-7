@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  background-image: url(img/mv.jpg);
+  height: 400px;
+  background-position: bottom;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+
+.main-visual-text {
+  padding: 20px;
+  color: darkgrey;
+}
+
